@@ -1,1 +1,1 @@
-# AI---PROJECT---Diabetes-Prediction-using-ML
+# AI-Project-Diabetes-Prediction
